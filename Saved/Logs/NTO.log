@@ -1399,3 +1399,197 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.01-11.42.39:506][ 52]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.01-11.42.39:506][ 52]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.01-11.42.39:506][ 52]AssetCheck: /Game/Maps/level Validating asset
+[2025.12.01-11.44.04:088][323]LogInterchangeEngine: [Pending] Importing
+[2025.12.01-11.44.04:118][323]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.01-11.44.04:133][323]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.01-11.44.04:133][323]LogInterchangeEngine: [Success] Import Done
+[2025.12.01-11.44.04:209][323]LogSlate: Took 0.000665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.12.01-11.44.04:273][324]LogInterchangeEngine: [Pending] Importing
+[2025.12.01-11.44.04:300][324]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.01-11.44.04:309][324]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.01-11.44.04:309][324]LogInterchangeEngine: [Success] Import Done
+[2025.12.01-11.44.04:536][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-11.44.05:052][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/кукла-клоун1] ([1] browsable assets)...
+[2025.12.01-11.44.05:220][325]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/кукла-клоун1.кукла-клоун1]
+[2025.12.01-11.44.05:220][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/кукла-клоун1]
+[2025.12.01-11.44.05:220][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/кукла-клоун1" FILE="../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/Assets/кукла-клоун1.uasset" SILENT=true
+[2025.12.01-11.44.05:252][325]LogSavePackage: Moving output files for package: /Game/Assets/кукла-клоун1
+[2025.12.01-11.44.05:253][325]LogSavePackage: Moving '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/кукла-клоун10A7BAC834719588541F19988D2268778.tmp' to '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/Assets/кукла-клоун1.uasset'
+[2025.12.01-11.44.05:255][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/кукла-клоун2] ([1] browsable assets)...
+[2025.12.01-11.44.05:383][325]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/кукла-клоун2.кукла-клоун2]
+[2025.12.01-11.44.05:383][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/кукла-клоун2]
+[2025.12.01-11.44.05:383][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/кукла-клоун2" FILE="../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/Assets/кукла-клоун2.uasset" SILENT=true
+[2025.12.01-11.44.05:411][325]LogSavePackage: Moving output files for package: /Game/Assets/кукла-клоун2
+[2025.12.01-11.44.05:412][325]LogSavePackage: Moving '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/кукла-клоун2FDD61741419D68EF6E59D9B64004E784.tmp' to '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/Assets/кукла-клоун2.uasset'
+[2025.12.01-11.44.05:748][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.21 sec (total: 1.80 sec)
+[2025.12.01-11.44.05:770][325]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-11.44.06:271][326]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.01-11.44.06:271][326]LogContentValidation: Enabled validators:
+[2025.12.01-11.44.06:271][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-11.44.06:271][326]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-11.44.06:271][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-11.44.06:271][326]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-11.44.06:271][326]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-11.44.06:271][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-11.44.06:271][326]AssetCheck: /Game/Assets/кукла-клоун1 Validating asset
+[2025.12.01-11.44.06:272][326]AssetCheck: /Game/Assets/кукла-клоун2 Validating asset
+[2025.12.01-11.44.08:785][340]AssetReimport: Reimported asset кукла-клоун1 from C:/Users/Torika/Documents/Unreal Projects/NTO/Content/Assets/кукла-клоун1.png.
+[2025.12.01-11.44.08:785][340]AssetReimport: Reimported asset кукла-клоун2 from C:/Users/Torika/Documents/Unreal Projects/NTO/Content/Assets/кукла-клоун2.png.
+[2025.12.01-11.44.24:712][771]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.01-11.44.24:723][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.01-11.44.24:723][771]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level
+[2025.12.01-11.44.24:727][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004008s)
+[2025.12.01-11.44.24:727][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level.level to /Game/Maps/UEDPIE_0_level.level (0.004069s)
+[2025.12.01-11.44.24:762][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.01-11.44.24:764][771]LogChaosDD: Creating Chaos Debug Draw Scene for world level
+[2025.12.01-11.44.24:766][771]LogPlayLevel: PIE: World Init took: (0.002283s)
+[2025.12.01-11.44.24:767][771]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.01-11.44.24:767][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.01-11.44.24:767][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.01-11.44.24:767][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.01-11.44.24:767][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.01-11.44.24:767][771]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.01-11.44.24:767][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.01-11.44.24:767][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.01-11.44.24:767][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.01-11.44.24:767][771]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.01-11.44.24:767][771]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.01-11.44.24:767][771]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.01-11.44.24:770][771]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.01-11.44.24:838][771]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2025.12.01-11.44.24:838][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.01-11.44.24:838][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.01-11.44.24:838][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.01-11.44.24:839][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.01-11.44.24:839][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.01-11.44.24:842][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.01-11.44.24:842][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.01-11.44.24:842][771]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.01-11.44.24:842][771]LogAudio: Display: Audio Device (ID: 6) registered with world 'level'.
+[2025.12.01-11.44.24:842][771]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.01-11.44.24:847][771]LogLoad: Game class is 'GM_MyGamemode_C'
+[2025.12.01-11.44.24:849][771]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level.level up for play (max tick rate 60) at 2025.12.01-18.44.24
+[2025.12.01-11.44.24:849][771]LogWorld: Bringing up level for play took: 0.001305
+[2025.12.01-11.44.24:852][771]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.12.01-11.44.24:856][771]PIE: Server logged in
+[2025.12.01-11.44.24:859][771]PIE: Play in editor total start time 0.137 seconds.
+[2025.12.01-11.44.24:936][772]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.01-11.44.25:035][773]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.12.01-11.44.28:389][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-11.44.28:389][872]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_level
+[2025.12.01-11.44.28:389][872]LogWorld: UWorld::CleanupWorld for level, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-11.44.28:389][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-11.44.28:416][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.01-11.44.28:419][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-11.44.28:454][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-11.44.28:454][872]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.01-11.44.28:455][872]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.12.01-11.44.28:457][872]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.12.01-11.44.28:495][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.01-11.44.28:561][873]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.12.01-11.44.44:772][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-11.44.44:951][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level" FILE="../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/Maps/level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.01-11.44.45:024][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.01-11.44.45:052][347]LogSavePackage: Moving output files for package: /Game/Maps/level
+[2025.12.01-11.44.45:053][347]LogSavePackage: Moving '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/levelA060A18E4EA92B277C65B3829700F855.tmp' to '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/Maps/level.umap'
+[2025.12.01-11.44.45:077][347]LogFileHelpers: Saving map 'level' took 0.127
+[2025.12.01-11.44.45:120][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 348.065 ms (total: 2.15 sec)
+[2025.12.01-11.44.45:252][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-11.44.45:252][347]LogContentValidation: Enabled validators:
+[2025.12.01-11.44.45:252][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-11.44.45:252][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-11.44.45:252][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-11.44.45:252][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-11.44.45:252][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-11.44.45:253][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-11.44.45:253][347]AssetCheck: /Game/Maps/level Validating asset
+[2025.12.01-11.44.50:171][487]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.12.01-11.44.50:185][488]LogStreaming: Display: FlushAsyncLoading(369): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-11.44.58:191][587]LogSlate: Took 0.000748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.01-11.44.59:622][597]LogSlate: Window 'Extract sprites' being destroyed
+[2025.12.01-11.45.00:806][602]LogSlate: Window 'Extract sprites' being destroyed
+[2025.12.01-11.45.09:592][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-11.45.09:593][687]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/Sprites/кукла-клоун1_Sprite_0] ([1] browsable assets)...
+[2025.12.01-11.45.09:595][687]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/character/Sprites/кукла-клоун1_Sprite_0.кукла-клоун1_Sprite_0]
+[2025.12.01-11.45.09:595][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/Sprites/кукла-клоун1_Sprite_0]
+[2025.12.01-11.45.09:613][687]LogSavePackage: Moving output files for package: /Game/character/Sprites/кукла-клоун1_Sprite_0
+[2025.12.01-11.45.09:613][687]LogSavePackage: Moving '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/кукла-клоун1_Sprite_0071845994436BB5BB24AC69E0348970A.tmp' to '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/character/Sprites/кукла-клоун1_Sprite_0.uasset'
+[2025.12.01-11.45.09:616][687]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/Sprites/кукла-клоун2_Sprite_0] ([1] browsable assets)...
+[2025.12.01-11.45.09:619][687]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/character/Sprites/кукла-клоун2_Sprite_0.кукла-клоун2_Sprite_0]
+[2025.12.01-11.45.09:619][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/Sprites/кукла-клоун2_Sprite_0]
+[2025.12.01-11.45.09:632][687]LogSavePackage: Moving output files for package: /Game/character/Sprites/кукла-клоун2_Sprite_0
+[2025.12.01-11.45.09:632][687]LogSavePackage: Moving '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/кукла-клоун2_Sprite_000E95DE943A1AC36FAD3B3B47BFB038C.tmp' to '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/character/Sprites/кукла-клоун2_Sprite_0.uasset'
+[2025.12.01-11.45.09:634][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.967 ms (total: 2.19 sec)
+[2025.12.01-11.45.09:743][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.01-11.45.09:771][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.01-11.45.09:796][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.01-11.45.09:904][687]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.01-11.45.09:905][687]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.01-11.45.09:905][687]LogContentValidation: Enabled validators:
+[2025.12.01-11.45.09:905][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-11.45.09:905][687]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-11.45.09:905][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-11.45.09:905][687]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-11.45.09:905][687]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-11.45.09:905][687]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-11.45.09:905][687]AssetCheck: /Game/character/Sprites/кукла-клоун1_Sprite_0 Validating asset
+[2025.12.01-11.45.09:905][687]AssetCheck: /Game/character/Sprites/кукла-клоун2_Sprite_0 Validating asset
+[2025.12.01-11.45.09:942][687]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-11.45.17:750][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.01-11.45.18:072][765]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.12.01-11.45.18:082][765]LogSlate: Took 0.008080 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.12.01-11.45.18:938][765]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.01-11.45.18:997][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.01-11.45.19:024][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.01-11.45.19:066][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.12.01-11.45.20:074][782]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/character/Sprites/кукла-клоун1.кукла-клоун1
+[2025.12.01-11.45.20:076][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.12.01-11.45.53:740][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-11.45.54:084][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/Sprites/кукла-клоун1] ([1] browsable assets)...
+[2025.12.01-11.45.54:118][ 72]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/character/Sprites/кукла-клоун1.кукла-клоун1]
+[2025.12.01-11.45.54:118][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/Sprites/кукла-клоун1]
+[2025.12.01-11.45.54:118][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Sprites/кукла-клоун1" FILE="../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/character/Sprites/кукла-клоун1.uasset" SILENT=true
+[2025.12.01-11.45.54:132][ 72]LogSavePackage: Moving output files for package: /Game/character/Sprites/кукла-клоун1
+[2025.12.01-11.45.54:132][ 72]LogSavePackage: Moving '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/кукла-клоун1622A5C094FE44A84BC1B5F8E55B3D6E9.tmp' to '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/character/Sprites/кукла-клоун1.uasset'
+[2025.12.01-11.45.54:188][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 447.746 ms (total: 2.64 sec)
+[2025.12.01-11.45.54:319][ 72]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-11.45.54:319][ 72]LogContentValidation: Enabled validators:
+[2025.12.01-11.45.54:319][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-11.45.54:319][ 72]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-11.45.54:319][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-11.45.54:319][ 72]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-11.45.54:319][ 72]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-11.45.54:319][ 72]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-11.45.54:319][ 72]AssetCheck: /Game/character/Sprites/кукла-клоун1 Validating asset
+[2025.12.01-11.45.54:445][ 72]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-11.45.55:264][ 82]LogSlate: Window 'кукла-клоун1' being destroyed
+[2025.12.01-11.45.55:541][ 82]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-11.45.55:541][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-11.45.55:605][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.01-11.46.00:526][162]LogSlate: Window 'Content Browser' being destroyed
+[2025.12.01-11.46.15:164][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-11.46.15:165][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/character/Flipbooks/кукла-клоун1] ([1] browsable assets)...
+[2025.12.01-11.46.15:165][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/Flipbooks/кукла-клоун1]
+[2025.12.01-11.46.15:165][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Flipbooks/кукла-клоун1" FILE="../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/character/Flipbooks/кукла-клоун1.uasset" SILENT=true
+[2025.12.01-11.46.15:177][380]LogSavePackage: Moving output files for package: /Game/character/Flipbooks/кукла-клоун1
+[2025.12.01-11.46.15:177][380]LogSavePackage: Moving '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/кукла-клоун10F9DE2124627BA23DE6A3FA4A9106B56.tmp' to '../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Content/character/Flipbooks/кукла-клоун1.uasset'
+[2025.12.01-11.46.15:180][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.296 ms (total: 2.65 sec)
+[2025.12.01-11.46.15:241][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.01-11.46.15:267][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.12.01-11.46.15:297][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.01-11.46.15:396][380]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.01-11.46.15:396][380]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-11.46.15:396][380]LogContentValidation: Enabled validators:
+[2025.12.01-11.46.15:396][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-11.46.15:396][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-11.46.15:396][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-11.46.15:396][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-11.46.15:396][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-11.46.15:396][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-11.46.15:396][380]AssetCheck: /Game/character/Flipbooks/кукла-клоун1 Validating asset
+[2025.12.01-11.46.15:435][380]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-11.46.20:650][408]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 667.744080
+[2025.12.01-11.46.21:649][411]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-11.46.21:649][411]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 668.411072, Update Interval: 321.658386
