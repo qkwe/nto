@@ -2601,3 +2601,8 @@ Sampler Limit: 32
 [2025.12.03-20.00.33:961][135]AssetCheck: /Game/Assets/отмычка Validating asset
 [2025.12.03-20.00.33:961][135]AssetCheck: /Game/StarterContent/Materials/M_TextureToMesh Validating asset
 [2025.12.03-20.00.34:081][135]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Torika/Documents/Unreal Projects/NTO/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-20.01.47:821][418]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.12.03-20.01.47:821][418]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.12.03-20.03.14:031][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8080.545898
+[2025.12.03-20.03.15:032][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-20.03.15:032][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8081.213867, Update Interval: 309.653625
