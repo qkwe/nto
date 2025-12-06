@@ -1455,3 +1455,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.06-03.02.00:344][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
 [2025.12.06-03.02.00:725][662]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2025.12.06-03.02.04:301][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2025.12.06-03.03.36:250][ 87]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.12.06-03.03.36:250][ 87]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
